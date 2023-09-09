@@ -4,5 +4,22 @@
 Este repositório contém os notebook com as resoluções das tarefas realizadas pelo discente **Vitor Avelaneda** durante a disciplina Algoritmos e Programas ministrada pelo Prof. Dr. Leonardo Ramos Emmendorfer do Programa de Pós-Graduação em Modelagem Computacional da FURG (PPGMC-FURG).
 
 * O repositório com os notebooks pode ser acessado [aqui!](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG)
+* Contato: avelaneda.vitor@gmail.com
+
+------------------------------------------------------------------------------------------------------------------
+
+### Notebooks:
+* [Tarefa Tópico 1]()
+* [Tarefa Tópico 2]()
+* [Tarefa Tópico 3](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_3.ipynb)https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_3.ipynb)
+* [Tarefa Tópico 4]()
+* [Tarefa Tópico 5]()
+* [Tarefa Tópico 6]()
+* [Tarefa Tópico 7]()
+* [Tarefa Tópico 8]()
+* [Tarefa Tópico 9]()
+* [Tarefa Tópico 10]()
+* [Tarefa Tópico 11]()
+* [Tarefa Tópico 12]()
 
 ------------------------------------------------------------------------------------------------------------------
