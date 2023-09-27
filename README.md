@@ -17,7 +17,7 @@ Este repositório contém os notebook com as resoluções das tarefas realizadas
 * [Tarefa Tópico 6](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_6.ipynb)
 * [Tarefa Tópico 7](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_7.ipynb)
 * [Tarefa Tópico 8](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_8.ipynb)
-* [Tarefa Tópico 9]()
+* [Tarefa Tópico 9](https://github.com/vitoravelaneda/03043P-Algoritmos_e_Programas-PPGMC-FURG/blob/main/notebooks/tarefa_topico_9.ipynb)
 * [Tarefa Tópico 10]()
 * [Tarefa Tópico 11]()
 * [Tarefa Tópico 12]()
